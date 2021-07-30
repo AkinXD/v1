@@ -16,7 +16,7 @@ $ pip2 install mechanize
 
 $ pip2 install ipaddress
 
-$ git clone https://github.com/AkinXD/Dru
+$ git clone https://github.com/AkinXD/v1
 
 $ cd v1
 
