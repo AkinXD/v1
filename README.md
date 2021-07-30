@@ -16,11 +16,11 @@ $ pip2 install mechanize
 
 $ pip2 install ipaddress
 
-$ git clone https://github.com/AkinXD/v1
+$ git clone https://github.com/AkinXD/Dru
 
-$ cd v1
+$ cd Dru
 
 $ git pull
 
-$ python2 v1.py
+$ python2 Dru.py
 
