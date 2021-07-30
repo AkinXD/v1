@@ -18,7 +18,7 @@ $ pip2 install ipaddress
 
 $ git clone https://github.com/AkinXD/Dru
 
-$ cd Dru
+$ cd v1
 
 $ git pull
 
